@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Man-2000
 - 👀 I’m interested in game development
-- 🌱 I’m currently learning C#
+- 🌱 I’m currently learning Java
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me:  discord: man3107
 - 😄 Pronouns: He/him
 - ⚡ Fun fact: ...
 
