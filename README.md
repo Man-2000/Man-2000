@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Man-2000
-- 👀 I’m interested in game development
+- 👀 I’m interested in game development & Data Sciences
 - 🌱 I’m currently learning Java
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me:  discord: man3107
